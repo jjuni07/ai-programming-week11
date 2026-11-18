@@ -95,11 +95,11 @@ B의 실패 1개는 `test_mixed_valid_and_invalid`이다. 건너뛴 줄이 5개�
 |---|---|---|
 | 커밋 ① | `load_scores.py`, 데이터 CSV, `bug3_*.py`, `prompts.txt`, `.gitignore` | `feat: 성적 CSV를 읽는 load_scores와 실험용 파일 추가` |
 | 커밋 ② | `test_*.py` 여섯 개 | `test: 정상·예외·경계값과 실행 경로 테스트 추가, AI A/B 비교 테스트 포함` |
-| 커밋 ③ | `README.md`, `WORKSHEET.md`, `PAIR_REVIEW.md`, `LICENSE` | `docs: README에 실행 방법과 테스트 방법 추가` |
+| 커밋 ③ | `README.md`, `WORKSHEET.md`, `LICENSE` | `docs: README와 제출 워크시트 추가` |
 | 나쁜 예 고치기 | `수정` → | `fix: 점수 경계값 101을 유효로 읽던 조건을 > 100으로 수정` (이런 식으로 무엇을 왜 적는다) |
 | AI 표기 | 각 커밋 끝에 `Assisted-by: Claude` 줄 | 넣음 |
 
-- [x] 세 번 나눠 커밋  - [x] 네 단어 중 하나로 시작  - [x] 무엇을 왜 적음  - [ ] push 완료
+- [x] 세 번 나눠 커밋  - [x] 네 단어 중 하나로 시작  - [x] 무엇을 왜 적음  - [x] push 완료
 
 ## 6. 작성표 ② README 여섯 칸
 
@@ -112,11 +112,11 @@ B의 실패 1개는 `test_mixed_valid_and_invalid`이다. 건너뛴 줄이 5개�
 | ⑤ 파일 구성 | 파일별 역할 표 | 작성 |
 | ⑥ 만든 사람 | 이름·학번·AI 사용 범위 | 작성 |
 
-- [x] 여섯 칸 모두  - [x] 명령을 직접 실행  - [ ] 테스트 화면 캡처 (README에는 텍스트 출력으로 넣음, 캡처 이미지는 직접 추가)  - [ ] 커밋하고 push
+- [x] 여섯 칸 모두  - [x] 명령을 직접 실행  - [ ] 테스트 화면 캡처 (README에는 텍스트 출력으로 넣음, 캡처 이미지는 추가 필요)  - [x] 커밋하고 push
 
 ## 7. 짝 판정지
 
-`PAIR_REVIEW.md` 참고. 짝의 저장소로 직접 실행한 뒤 채워야 한다.
+요청에 따라 짝 활동은 수행하지 않았으며, 짝 판정지는 제출하지 않는다.
 
 ## 8. 한 문단: AI에게 코드를 줬을 때와 명세를 줬을 때
 

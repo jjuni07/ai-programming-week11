@@ -50,7 +50,7 @@ test_load_scores.py .....................                                [100%]
 | `bug3_fixed.py` · `test_fixed.py` | 고친 코드와 회귀 테스트 |
 | `test_bug3_spec.py` | 명세 기준 기대값으로 고장난 원본의 버그를 확인 |
 | `prompts.txt` | 실험 프롬프트 원문 |
-| `WORKSHEET.md` · `PAIR_REVIEW.md` | 제출 워크시트 · 짝 판정지 |
+| `WORKSHEET.md` | 제출 워크시트 |
 | `LICENSE` | MIT 라이선스 |
 
 ## 만든 사람 · AI 사용 (Author & AI)
